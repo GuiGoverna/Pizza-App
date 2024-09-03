@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textViewResumoPedido" type="id" />
+    <item name="textViewPrecoTotal" type="id" />
+    <item name="btnVoltar" type="id" />
+</resources>
